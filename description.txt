@@ -1,0 +1,29 @@
+Website:
+
+buyrentkenya.com
+The target website for data extraction.
+Data Scraping:
+
+The code employs web scraping techniques.
+Web scraping is the process of extracting information from web pages.
+Targeted Areas:
+
+Focus on specific locations:
+Kilimani
+Kileleshwa
+Westlands
+Ruaka
+Suggests extraction of real estate or property-related data from these areas.
+Multiple Pages:
+
+The code is designed to scrape data from various pages of the website.
+Indicates navigation through different sections for comprehensive data collection.
+Prediction:
+
+The code includes a prediction element.
+Suggests involvement of data analysis or machine learning.
+Potential predictions related to property prices, trends, or other relevant insights.
+
+
+
+
