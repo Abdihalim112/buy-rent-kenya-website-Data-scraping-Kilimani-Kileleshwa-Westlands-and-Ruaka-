@@ -5,7 +5,7 @@ The target website for data extraction.
 Data Scraping:
 
 The code employs web scraping techniques.
-Web scraping is the process of extracting information from web pages.
+Web scraping is the process of extracting information from the web pages.
 Targeted Areas:
 
 Focus on specific locations:
